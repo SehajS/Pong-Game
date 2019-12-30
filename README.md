@@ -2,7 +2,7 @@
 
 The code contains a basic implementation of pong game, which is created using turtle library. It comes pre-installed with every basic python installation. Otherwise, one can use
 
-pip install turtle
+    `pip install turtle`
 
 # Rules
 
