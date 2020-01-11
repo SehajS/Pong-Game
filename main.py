@@ -47,7 +47,7 @@ pen.color("white")
 pen.penup()
 pen.hideturtle()
 pen.goto(0,260)
-pen.write("Player A: {}  Player B: {}".format(0,0), align="center", font=("Comic Sans MS", 24, "bold italic" ))
+
 
 '''
 Movement of left and right paddles up and down.

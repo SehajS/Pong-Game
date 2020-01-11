@@ -12,7 +12,7 @@ There are two paddles, a left paddle (corresponding to Player A) and a right pad
 
 - Press "s" key to move the left paddle down.
 
-- Press"Up" arrow key to move the right paddle up.
+- Press "Up" arrow key to move the right paddle up.
 
 - Press "Down" arrow key to move the right paddle down.
 
